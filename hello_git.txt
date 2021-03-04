@@ -1,3 +1,4 @@
 hello git!
 What's git?
 append a line.
+A new line
