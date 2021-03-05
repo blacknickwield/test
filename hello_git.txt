@@ -1,7 +1,7 @@
 hello git!
 What's git?
 append a line.
-A new line
+A new line a new line a new line
 about diff
 add a new repository
 create a new branch
