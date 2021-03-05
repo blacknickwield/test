@@ -6,3 +6,4 @@ about diff
 add a new repository
 create a new branch
 Hello!
+version master
